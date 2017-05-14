@@ -6,7 +6,7 @@ using System.Security.Cryptography;
 using log4net;
 using Newtonsoft.Json.Linq;
 
-namespace EveClientDownloader
+namespace EveUtils.ClientDownloader
 {
     public class EveClientDownloader
     {
