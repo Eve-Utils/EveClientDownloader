@@ -10,6 +10,10 @@
     <RepositoryType>git</RepositoryType>
     <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
     <Description>EveClientDownloader is an unofficial .NET library for downloading the Eve Online client</Description>
+    <PackageId>EveClientDownloader</PackageId>
+    <Authors>Eve-Utils Team</Authors>
+    <Company />
+    <Product>EveClientDownloader</Product>
   </PropertyGroup>
 
   <ItemGroup>
