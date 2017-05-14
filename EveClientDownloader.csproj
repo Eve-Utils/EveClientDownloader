@@ -8,7 +8,7 @@
     <Copyright>by-nc-sa/4.0</Copyright>
     <PackageLicenseUrl>http://creativecommons.org/licenses/by-nc-sa/4.0/</PackageLicenseUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <Description>EveClientDownloader is an unofficial .NET library for downloading the Eve Online client</Description>
     <PackageId>EveClientDownloader</PackageId>
     <Authors>Eve-Utils Team</Authors>
