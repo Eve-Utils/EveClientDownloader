@@ -4,12 +4,12 @@ dotnet: 1.0.4
 mono: none
 dist: trusty
 
-script: chmod +x .travis/build.sh && .travis/build.sh
+script: .travis/build.sh
 
 deploy:
   skip_cleanup: true
   provider: script
-  script: chmod +x .travis/deploy.sh && .travis/deploy.sh
+  script: .travis/deploy.sh
   on:
     branch: master
     tags: true
